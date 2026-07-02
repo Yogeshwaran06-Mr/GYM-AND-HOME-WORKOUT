@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Motivated Gym and Health Monitor",
+  "description": "A high-energy gym, workout, and body health logger featuring personalized AI motivation and direct coach interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
